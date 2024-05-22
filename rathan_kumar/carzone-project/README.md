@@ -1,0 +1,1 @@
+[Build Python Django Real Project: Django Web Development | Udemy](https://www.udemy.com/course/python-django-real-project-for-freshers-freelancers/)
